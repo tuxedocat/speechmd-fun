@@ -37,5 +37,5 @@ Notice
 ------
 
 ```
-Dialogue taken from the game "Bloodborne" manually. (c) 2014-2020 FROMSOFTWARE Inc.
+Example dialogue is taken from the game "Bloodborne" manually. (c) 2014-2020 FROMSOFTWARE Inc.
 ```
