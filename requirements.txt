@@ -1,0 +1,6 @@
+google-api-core==1.19.1
+google-auth==1.16.1
+google-cloud-texttospeech==2.0.0
+googleapis-common-protos==1.52.0
+grpcio==1.29.0
+
